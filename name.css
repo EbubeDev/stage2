@@ -1,0 +1,15 @@
+
+body{
+  text-align: center;
+}
+
+
+a {
+  border: medium solid blue;
+  text-decoration: none;
+  color:#0A1931;
+}
+
+.name{
+margin: 8rem;
+}

@@ -1,0 +1,86 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', sans-serif;
+}
+
+
+p .middle-container{
+color: #0A1931;
+  line-height: 2;
+}
+
+h1 {
+  color: #FAF3F3;
+  font-size: 5.625rem;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+h2 {
+  color: #0A1931;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr{
+  border: dotted #11999E 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.brand-logo{
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.skill-row {
+  width:50%;
+  margin: 150px auto 150px auto;
+  text-align: left;
+}
+
+.intro {
+  width: 40%;
+  margin: auto;
+}
+
+.top-container {
+  background-color: #0A1931;
+  position: relative;
+  padding-top: 100px
+}
+.middle-container {
+  margin: 100px 0;
+}
+.bottom-container {
+  background-color: #0A1931;
+  padding: 20px 0 20px;
+}
+
+.i4g-img{
+  float: left;
+  margin-right:30px;
+  width: 25%;
+}
+.zuri {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
